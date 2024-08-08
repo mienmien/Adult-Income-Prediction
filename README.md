@@ -19,3 +19,17 @@ capital-gain: continuous.
 capital-loss: continuous.  
 hours-per-week: continuous.  
 native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.  
+
+# Result  
+Based on Categorization Accuracy  
+
+**Public data test** - 0.83296  
+ranking - 56/71  
+
+**Private data test** - 0.85286  
+ranking - 46/71  
+
+----strong baseline---- 0.79324  
+----basic baseline---- 0.78275
+
+
