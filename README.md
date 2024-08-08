@@ -29,7 +29,7 @@ ranking - 56/71
 **Private data test** - 0.85286  
 ranking - 46/71  
 
-----strong baseline---- 0.79324  
-----basic baseline---- 0.78275
+---strong baseline--- 0.79324  
+---basic baseline--- 0.78275
 
 
